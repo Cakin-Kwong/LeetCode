@@ -1,8 +1,10 @@
-/*   Leetcode Problem:Linked List Cycle   Difficulty:Medium
+/**
+*    Leetcode Problem: Linked List Cycle   Difficulty:Medium
 *    Solution: 12ms with O(1) space
 */
 
-/*   Given a linked list, determine if it has a cycle in it.
+/**
+*    Given a linked list, determine if it has a cycle in it.
 *
 *    Follow up :
 *    Can you solve it without using extra space ?
