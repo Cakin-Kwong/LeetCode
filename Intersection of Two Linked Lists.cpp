@@ -1,8 +1,8 @@
-﻿/**   Leetcode problem: Intersection of Two Linked Lists   Difficulty:Easy
-*     solution: 52ms with O(1) memory;
+﻿/**   Leetcode Problem: Intersection of Two Linked Lists   Difficulty:Easy
+*     Solution: 52ms with O(1) space;
 */
 
-/**For example, the following two linked lists :
+/** For example, the following two linked lists :
 *        A : a1 → a2
 *	                 ↘
 *	                  c1 → c2 → c3
